@@ -29,10 +29,12 @@
 
 <script lang="ts">
 import Vue from 'vue'
-import {Component} from 'nuxt-property-decorator'
+import { Component } from 'nuxt-property-decorator'
 
 @Component({})
-export class Index extends Vue {}
+export default class Index extends Vue {
+
+}
 </script>
 
 <style>
