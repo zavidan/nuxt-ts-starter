@@ -22,4 +22,7 @@ $ npm run generate
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
 ## Within the Dev Container
-To activate tailwind intellisense press ctrl + space while in a class attribute.
+To activate tailwind intellisense
+1. Open the workspace in the dev container
+1. Disable and Enable Vuter vscode plugin
+1. press ctrl + space while in a class attribute.
