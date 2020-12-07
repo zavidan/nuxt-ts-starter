@@ -1,3 +1,5 @@
+Current version of Nuxt is 2.x
+
 # local
 
 ## Build Setup
@@ -18,3 +20,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Within the Dev Container
+To activate tailwind intellisense press ctrl + space while in a class attribute.
