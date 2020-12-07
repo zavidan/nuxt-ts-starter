@@ -28,6 +28,9 @@
       "@nuxt/types"
     ]
   },
+  "include": [
+    "**/*"
+  ],
   "exclude": [
     "node_modules",
     ".nuxt",

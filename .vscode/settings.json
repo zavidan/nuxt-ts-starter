@@ -16,5 +16,8 @@
         "titleBar.inactiveForeground": "#15202b99"
     },
     "peacock.color": "#181969",
-    "peacock.remoteColor": "#c28cac"
+    "peacock.remoteColor": "#c28cac",
+    "tailwindCSS.includeLanguages": {
+        "vue": "html"
+    }
 }
